@@ -1,2 +1,2 @@
-# MUCSS 2024
-Slides for MUCSS talk 2024
+# SG Final Symposium talk 2024
+Slides for SG Final Symposium talk 2024
